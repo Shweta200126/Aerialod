@@ -7,6 +7,7 @@
 1. [30-meter SRTM](https://dwtkns.com/srtm30m/)
 1. [Defra Survey Data Download](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey)
 1. [Scottish Remote Sensing Portal](https://remotesensingdata.gov.scot/)
+1. [New GIS GOV](https://gis.ny.gov/elevation/NYC-topobathymetric-DEM.htm)
 
 #### Convert .asc to .png/.jpg/.svg
 
