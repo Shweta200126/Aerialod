@@ -12,7 +12,7 @@ Creations by me:
 <p>
   <img src = "/Creations_img/skyview-2-1920x1080.webp" height =400>
 <p>
-2. Manchester City (LIDAR data, 1 meter resolution)
+2. Manchester, England (LIDAR data, 1 meter resolution)
 <p>
   <img src = "/Creations_img/manchester-cityscape-1-1200x800.webp" height =400>
 <p>
