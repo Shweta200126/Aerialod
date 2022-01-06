@@ -16,4 +16,4 @@ Creations by me:
 <p>
   <img src = "/Creations_img/manchester-cityscape-1-1200x800.webp" height =400>
 <p>
-  <img src = "/Creations_img/manchester-cityscape-1-1200x800.webp" height =400>
+  <img src = "/Creations_img/manchester-cityscape-2-1200x800.webp" height =400>
