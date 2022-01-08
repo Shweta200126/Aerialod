@@ -23,3 +23,7 @@ Creations by me:
   <img src= "/Creations_img/london-dsm-1-1200x800.webp" height =400>
 <p>
 4. Global Population density (2019)
+<p> 
+  <img src= "/Creations_img/global_population_density_2019_1200x800.webp" height =400>
+<p>
+  <img src= "/Creations_img/gpd_2019-2_1200x800.webp" height =400>
