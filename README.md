@@ -21,4 +21,5 @@ Creations by me:
 3. Center London (DSM, Digital Surface Model; LIDAR data)
 <p>
   <img src= "/Creations_img/london-dsm-1-1200x800.webp" height =400>
-4. Population density
+<p>
+4. Global Population density (2019)
