@@ -31,3 +31,7 @@ Creations by me:
 5. Scotland - 3d text
 <p>
   <img src= "/Creations_img/Scotland-1200x800.webp" height =400>
+<p>
+6. Manchester Top view- 3d text + border frame
+<p>
+  <img src="/Creations_img/manchester_top_view_3d_text_border.webp" height=400>
