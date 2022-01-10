@@ -44,5 +44,5 @@
 - Use ![image](https://user-images.githubusercontent.com/72426535/148815212-9c4a5423-d38c-4f8e-aa00-d9882fd90583.png) when you want to add other .asc data to already single file, it'll merge them all.
 - Rayleigh uses the other opposite to it in the colour wheel:
 <p>
-  <img src="/Creations_img/colour wheel.webp" height=200>
+  <img src="/Data sources/colour wheel.webp" height=200>
 
