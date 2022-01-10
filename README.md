@@ -42,4 +42,7 @@
 - Use .asc file by directly opening them and not dropping them to the screen.
 - Change scale -> 0.1 and offset-> -99999 to see how the .tif file data is shown or there'd be a single spike only.
 - Use ![image](https://user-images.githubusercontent.com/72426535/148815212-9c4a5423-d38c-4f8e-aa00-d9882fd90583.png) when you want to add other .asc data to already single file, it'll merge them all.
+- Rayleigh uses the other opposite to it in the colour wheel:
+<p>
+  <img src="/Creations_img/colour wheel.webp" height=200>
 
