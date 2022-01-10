@@ -1,10 +1,10 @@
 # Aerialod
 
-Software: [Aerialold](https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss)
+**Software:** [Aerialold](https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss)
 
-Learnt from Udemy course: [Aerialod](https://www.udemy.com/course/aerialod/)
+**Learnt from Udemy course:** [Aerialod](https://www.udemy.com/course/aerialod/)
 
-Creations by me:
+`Creations by me:`
 <p>
 1. Scotland (DEM, Digital Elevation Model) 
 <p>
@@ -35,3 +35,11 @@ Creations by me:
 6. Manchester Top view- 3d text + border frame
 <p>
   <img src="/Creations_img/manchester_top_view_3d_text_border.webp" height=400>
+  
+### Tips:
+  
+- Use 7 to save a position and 8 to come back later to that position.
+- Use .asc file by directly opening them and not dropping them to the screen.
+- Change scale -> 0.1 and offset-> -99999 to see how the .tif file data is shown or there'd be a single spike only.
+- Use ![image](https://user-images.githubusercontent.com/72426535/148815212-9c4a5423-d38c-4f8e-aa00-d9882fd90583.png) when you want to add other .asc data to already single file, it'll merge them all.
+
